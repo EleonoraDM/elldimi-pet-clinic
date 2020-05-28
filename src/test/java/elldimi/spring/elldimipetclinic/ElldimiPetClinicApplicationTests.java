@@ -1,4 +1,4 @@
-package elldimipetclinic;
+package elldimi.spring.elldimipetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
