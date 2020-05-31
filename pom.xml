@@ -44,4 +44,8 @@
         </plugins>
     </build>
 
+    <scm>
+        <developerConnection>scm:git:https://github.com/EleonoraDM/elldimi-pet-clinic.git</developerConnection>
+    </scm>
+
 </project>
