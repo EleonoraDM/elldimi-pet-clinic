@@ -25,6 +25,7 @@
     </parent>
 
     <properties>
+        <project.scm.id>git</project.scm.id>
         <java.version>1.8</java.version>
     </properties>
 
