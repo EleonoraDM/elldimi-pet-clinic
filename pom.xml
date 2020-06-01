@@ -46,9 +46,7 @@
     </build>
 
     <scm>
-        <connection>scm:git:ssh://git@github.com/EleonoraDM/elldimi-pet-clinic.git</connection>
         <developerConnection>scm:git:git@github.com:EleonoraDM/elldimi-pet-clinic.git</developerConnection>
-        <url>https://github.com/EleonoraDM/elldimi-pet-clinic.git</url>
     </scm>
 
 </project>
