@@ -4,7 +4,7 @@
 
     <groupId>elldimi.spring</groupId>
     <artifactId>elldimi-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -46,7 +46,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:EleonoraDM/elldimi-pet-clinic.git</developerConnection>
-      <tag>elldimi-pet-clinic-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
