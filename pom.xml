@@ -25,7 +25,6 @@
     </parent>
 
     <properties>
-        <project.scm.id>git</project.scm.id>
         <java.version>1.8</java.version>
     </properties>
 
@@ -47,7 +46,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/EleonoraDM/elldimi-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:EleonoraDM/elldimi-pet-clinic.git</developerConnection>
     </scm>
 
 </project>
