@@ -1,5 +1,14 @@
+elldimi\spring\elldimipetclinic\services\PetService.class
+elldimi\spring\elldimipetclinic\services\map\PetServiceMap.class
+elldimi\spring\elldimipetclinic\services\map\AbstractMapService.class
+elldimi\spring\elldimipetclinic\services\OwnerService.class
+elldimi\spring\elldimipetclinic\services\CrudService.class
+elldimi\spring\elldimipetclinic\model\Pet.class
+elldimi\spring\elldimipetclinic\model\Vet.class
+elldimi\spring\elldimipetclinic\services\map\VetServiceMap.class
+elldimi\spring\elldimipetclinic\model\BaseEntity.class
+elldimi\spring\elldimipetclinic\services\map\OwnerServiceMap.class
 elldimi\spring\elldimipetclinic\model\Owner.class
 elldimi\spring\elldimipetclinic\model\PetType.class
 elldimi\spring\elldimipetclinic\model\Person.class
-elldimi\spring\elldimipetclinic\model\Pet.class
-elldimi\spring\elldimipetclinic\model\Vet.class
+elldimi\spring\elldimipetclinic\services\VetService.class
