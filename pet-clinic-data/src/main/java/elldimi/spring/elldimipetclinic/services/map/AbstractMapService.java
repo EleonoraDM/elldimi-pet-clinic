@@ -10,6 +10,7 @@ import java.util.Set;
 public abstract class AbstractMapService<T, ID> implements CrudService<T, ID> {
 
     //Acc to Guru this property should be qualified as protected.
+    //Shouldn't it be a TreeMap or sth?
     private Map<ID, T> map = new HashMap<>();
 
     //Guru: no other constructor except the default one.
